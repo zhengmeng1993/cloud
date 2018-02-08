@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="configService" />
+        <module name="eurekaServer" />
+        <module name="hystrix-dashboard (1)" />
+        <module name="hystrix-dashboard (2)" />
+        <module name="hystrix-dashboard (3)" />
+        <module name="turbine" />
+        <module name="web (1)" />
+        <module name="web (2)" />
+        <module name="webService" />
+        <module name="webService1" />
+      </profile>
+      <profile name="Annotation profile for Unknown" enabled="true">
+        <sourceOutputDir name="../generated-sources/annotations" />
+        <sourceTestOutputDir name="../generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="maven-archiver" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="configService" target="1.8" />
+      <module name="eurekaServer" target="1.8" />
+      <module name="hystrix-dashboard (1)" target="1.8" />
+      <module name="hystrix-dashboard (2)" target="1.8" />
+      <module name="hystrix-dashboard (3)" target="1.8" />
+      <module name="maven-archiver" target="1.5" />
+      <module name="turbine" target="1.8" />
+      <module name="web (1)" target="1.8" />
+      <module name="web (2)" target="1.8" />
+      <module name="webService" target="1.8" />
+      <module name="webService1" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

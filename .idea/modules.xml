@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/configService/configService.iml" filepath="$PROJECT_DIR$/configService/configService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaServer/eurekaServer.iml" filepath="$PROJECT_DIR$/eurekaServer/eurekaServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hystrix-turbine/hystrix-dashboard (1).iml" filepath="$PROJECT_DIR$/hystrix-turbine/hystrix-dashboard (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/hystrix-turbine1/hystrix-dashboard (2).iml" filepath="$PROJECT_DIR$/hystrix-turbine1/hystrix-dashboard (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/hystrix/hystrix-dashboard (3).iml" filepath="$PROJECT_DIR$/hystrix/hystrix-dashboard (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/turbine/target/maven-archiver/maven-archiver.iml" filepath="$PROJECT_DIR$/turbine/target/maven-archiver/maven-archiver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/turbine/turbine.iml" filepath="$PROJECT_DIR$/turbine/turbine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/web (1).iml" filepath="$PROJECT_DIR$/web/web (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/web1/web (2).iml" filepath="$PROJECT_DIR$/web1/web (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/webService/webService.iml" filepath="$PROJECT_DIR$/webService/webService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webService1/webService1.iml" filepath="$PROJECT_DIR$/webService1/webService1.iml" />
+    </modules>
+  </component>
+</project>
